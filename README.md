@@ -1,7 +1,8 @@
 # FiniteStateMachineAPI
 University of Washington Bothell Capstone, Spring 2021
 
-Abstract: /n
+Abstract:
+
 This project was created using and functioning on Unity 2020.2.1f1.
 
 This project was created using and functioning on Unity 2020.2.1f1.
